@@ -126,7 +126,7 @@ Rush 中的[格式化策略](https://rushstack.io/pages/heft_tasks/eslint/) 推�
    ```shell
    $ cd common/autoinstallers/rush-prettier
 
-   # 可以不过下面指令来安装依赖， 也可以直接编辑 package.json 中 'dependencies" 字段
+   # 可以通过下面指令来安装依赖， 也可以直接编辑 package.json 中 'dependencies" 字段
    $ pnpm install prettier
    $ pnpm install pretty-quick
 
